@@ -1,0 +1,14 @@
+.check{
+    background-color: rgb(143, 142, 142);
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: rgb(130, 195, 248);
+    width:65%;
+    margin: auto;
+    border: solid 10px rgb(100, 100, 100);
+    border-radius: 10px;
+}
